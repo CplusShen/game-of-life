@@ -2,6 +2,7 @@ package com.wakaleo.gameoflife.domain;
 
 /**
  * Cell is the enum class for all cell context
+ * Build Trigger
  *
  */
 public enum Cell {
