@@ -1,5 +1,9 @@
 package com.wakaleo.gameoflife.domain;
 
+/**
+ * Cell is the enum class for all cell context
+ *
+ */
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
