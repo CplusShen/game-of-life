@@ -4,6 +4,7 @@ package com.wakaleo.gameoflife.domain;
  * Cell is the enum class for all cell context
  * Build Trigger
  * Build Trigger - 02
+ * Build Trigger - 03
  *
  */
 public enum Cell {
